@@ -292,6 +292,16 @@ a{
 @media (max-width: 840px) {
     .main-title-title{
         font-size: 30px;
+        
+
+    .main-title{
+        background-image: url(../../images/backgroungsm.jpg);
+        
+    }
+    .main-botton{
+        background-image: url(../../images/background2sm.jpg);
+        
+    }
     }
 }
 
